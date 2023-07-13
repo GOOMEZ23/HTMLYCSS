@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(20, 20, 20);
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    color: #A68F97;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+#informacion{
+    color: #1F2024;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+    margin-left:380px;
+    margin-right:380px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+    background-color:#004F4D;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+#linkedin{
+    background-color: #292929; 
+    color: aliceblue;
+    padding: 8px 16px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.name {
+    margin-top: 10px;
+}
+
+#lista{
+    color: #1F2024;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+    margin-left:380px;
+    margin-right:380px;
+    padding-bottom: 1px;
+    border-radius: 6px;
+    background-color:#004F4D;
+    text-align: center;
+    text-decoration: none;
+}
+
+.skills{
+    align-items: center;
+}
